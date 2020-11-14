@@ -1,0 +1,10 @@
+.fondofirtssection {
+  height: 100vh;
+  background: url("https://images4.alphacoders.com/457/4574.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.gris-transparent {
+  background: rgba(0, 0, 0, 0.466);
+}
+/*# sourceMappingURL=estilos-index.css.map */

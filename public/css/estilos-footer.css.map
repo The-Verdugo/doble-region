@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/estilos-footer.scss"
+    ],
+    "names": [],
+    "file": "estilos-footer.css"
+}

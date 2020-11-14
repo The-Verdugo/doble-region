@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,CAAA;EACd,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,mDAAmD,CAAA,SAAS,CAAC,MAAM,CAAC,MAAM;EACtF,eAAe,EAAE,KAAK;CACzB;;AACD,AAAA,iBAAiB,CAAA;EACb,UAAU,EAAE,oBAAoB;CACnC",
+    "sources": [
+        "../sass/estilos-index.scss"
+    ],
+    "names": [],
+    "file": "estilos-index.css"
+}
