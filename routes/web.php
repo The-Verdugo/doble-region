@@ -15,3 +15,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/',IndexController::class) -> name('Inicio');
+Route::view('/albumes', 'albumes')-> name('Albumes');
+Route::view('/biografia', 'biografia')-> name('Biografia');
+Route::view('/contacto', 'contacto')-> name('Contacto');
