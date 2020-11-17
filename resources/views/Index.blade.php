@@ -11,7 +11,7 @@
                     <div class="col-md-6">
                         <h2 class="h2-responsive">Proximos Conciertos</h2>
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem minima esse sapiente, voluptatibus laboriosam rerum, saepe odio delectus molestias perferendis sint. Eos minima reprehenderit animi iure iste sint aliquid vero.</p>
-                        <a class="btn btn-outline-primary waves-effect" href="#">Ver mas</a>
+                        <a class="btn btn-light" href="#">Ver mas</a>
                     </div>
                 </div>
             </div>
@@ -25,7 +25,7 @@
                     <div class="col-md-6">
                         <h2 class="h2-responsive">Proximos Conciertos</h2>
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem minima esse sapiente, voluptatibus laboriosam rerum, saepe odio delectus molestias perferendis sint. Eos minima reprehenderit animi iure iste sint aliquid vero.</p>
-                        <a class="btn btn-outline-primary waves-effect" href="#">Ver mas</a>
+                        <a class="btn btn-light" href="#">Ver mas</a>
                     </div>
                 </div>
             </div>
