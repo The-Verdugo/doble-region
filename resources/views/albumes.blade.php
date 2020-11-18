@@ -2,9 +2,7 @@
 @section('titulo', 'Álbumes')
 @section('body')
 {{-- Aqui va el código html --}}
-<div id="carouselIndex" class="carousel slide carousel-fade" data-ride="carousel">
-    <div class="carousel-inner">
-      <div class="carousel-item active">
+
         <img class="d-block w-100" src="https://d500.epimg.net/cincodias/imagenes/2020/01/24/lifestyle/1579860332_147617_1579860380_noticia_normal.jpg">
         <div class="carousel-caption d-none d-md-block">
             <div class="container">
