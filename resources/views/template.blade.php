@@ -27,8 +27,8 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-              <li class="nav-item active">
-              <a class="nav-link" href="{{route('Inicio')}}">Inicio <span class="sr-only">(current)</span></a>
+              <li class="nav-item">
+              <a class="nav-link" href="{{route('Inicio')}}">Inicio</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="{{route('Albumes')}}">&Aacute;lbumes</a>
@@ -44,10 +44,14 @@
         </div>
       </nav>
     </header>
-    @yield('body')
+@yield('body')
     <footer>
       <div class="container">
-        
+        <div class="row">
+          <div class="col-md-3">
+            <h2>Este es el footer</h2>
+          </div>
+        </div>
       </div>
     </footer>
     <script src="{{asset('js/app.js')}}"></script>

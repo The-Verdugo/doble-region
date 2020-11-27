@@ -36,17 +36,20 @@
       </div>
     </div>
 </div>
-    <section class="fondofirtssection view">
-        <div class="mask rgba-stylish-light d-flex justify-content-center align-items-center">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 text-white">
-                        <h1 class="h1-responsive">Grupo Doble Region</h1>
-                        <hr class="bg-light">
-                        <p class="h4-responsive text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam ipsam blanditiis, laudantium voluptates rem suscipit mollitia, quo sunt nulla quis pariatur deleniti expedita iste qui! Sit rerum aliquid nobis labore.</p>
-                    </div>
+<section class="fondofirtssection view">
+    <div class="mask rgba-stylish-light d-flex justify-content-center align-items-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-white">
+                    <h1 class="h1-responsive">Grupo Doble Region</h1>
+                    <hr class="bg-light">
+                    <p class="h4-responsive text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam ipsam blanditiis, laudantium voluptates rem suscipit mollitia, quo sunt nulla quis pariatur deleniti expedita iste qui! Sit rerum aliquid nobis labore.</p>
+                </div>
+                <div class="col-md-6 d-flex justify-content-center">
+                    <iframe src="https://open.spotify.com/embed/album/4OtyKyA6SJAKQOVXgCALlm" width="480" height="480" frameborder="1" allowtransparency="true" allow="encrypted-media"></iframe>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 @endsection
